@@ -4,8 +4,8 @@
 
 ---
 Focused on building scalable, data-driven solutions that bridge the gap between complex analytics and sustainable business growth. Passionate 
-about leveraging open-source technnology to drive digital transformation and solve real-world problems using data. <br>This Github is the technical
-foundation for that practice.<br/>
+about leveraging open-source technnology to drive digital transformation and solve real-world problems using data. <br>Moreover, I aspire to work in an
+investment management environment where I can apply my statistical skills and get hands-on experience managing risk.<br/>
 
 ---
 ## Core Pillars of My Practice
